@@ -1,0 +1,8 @@
+{
+    "name": "Taschenrechner",
+    "theme_color": "rgb(40,40,40)",
+    "background_color": "rgb(40,40,40)",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "index.html"
+  }
